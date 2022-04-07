@@ -1,0 +1,10 @@
+
+Comandos básicos:
+
+git init (cria repositorio)
+git add * (adiciona arquivos)
+git commit -m "msg" (envelopa e salva mensagens)
+git push (atualiza repositorio remoto com local)
+
+mkdir (mudar)
+cd..(voltar nivel)
